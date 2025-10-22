@@ -1,0 +1,25 @@
+Create a fully functional, deployable Tic Tac Toe game with the following requirements:
+
+1. Two-player gameplay (X and O take turns)
+2. 3x3 grid board
+3. Click to place marks
+4. Automatic win detection for all possible winning combinations (rows, columns, diagonals)
+5. Draw detection when board is full with no winner
+6. Display current game status showing:
+   - Next player's turn during gameplay
+   - Winner announcement when game ends
+   - Draw announcement when applicable
+7. "New Game" button to reset and replay
+8. Beautiful, modern UI design with:
+   - Gradient background
+   - Rounded corners and shadows
+   - Smooth hover effects and transitions
+   - Color-coded players (X in blue, O in red)
+   - Responsive layout that works on all screen sizes
+9. Prevent moves on already-filled squares
+10. Prevent moves after game ends
+11. Use React hooks for state management
+12. Use Tailwind CSS for styling
+13. Use Lucide React icons
+
+The game should be production-ready, fully functional, and visually polished.
